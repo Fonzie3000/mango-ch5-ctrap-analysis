@@ -1,7 +1,4 @@
 # mango-ch5-ctrap-analysis
-C-Trap optical tweezers analysis of the CRISPR-Mango aptamer construct
-
-# mango-ch5-ctrap-analysis
 
 Analysis code for Chapter 5 of the PhD thesis "Fluorogenic RNA Mango Aptamers: Single-Molecule Characterisation and Applications in CRISPR-Mediated Genomic Imaging" (Fangqi Liu, Imperial College London, 2026).
 
